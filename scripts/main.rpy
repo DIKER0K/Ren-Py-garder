@@ -9,7 +9,11 @@ label start:
 
     show lucy mad at right
 
-    baker "Вы создали новую игру Ren'Py."
+    mc "a"
+
+    artist "б"
+
+    baker "в"
 
     jump chapter_1
 
