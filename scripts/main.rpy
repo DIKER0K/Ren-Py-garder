@@ -5,15 +5,31 @@ label start:
 
     scene road
 
-    show baker_idle at left
-
-    show lucy mad at right
+    show mc_idle
 
     mc "a"
 
+    hide mc_idle
+
+    show artist_idle
+
     artist "б"
 
+    hide artist_idle
+
+    show baker_idle
+
     baker "в"
+
+    hide baker_idle
+
+    show mc_idle at left
+
+    show artist_idle
+
+    show baker_idle at right
+
+    "АЛФАВИТ"
 
     jump chapter_1
 
