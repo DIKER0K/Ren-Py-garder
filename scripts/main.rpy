@@ -11,6 +11,8 @@ label start:
 
     mc "a"
 
+    show artist_idle
+
     artist "б"
 
     baker "в"
